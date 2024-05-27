@@ -37,9 +37,7 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
+
 
 
 
@@ -56,7 +54,7 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  Feel free to reach out to me through any of the platforms above, or email me at <a href="mailto:vladihack@example.com">vladihack@example.com</a>.
+  Feel free to reach out to me through any of the platforms above, or email me at <a href="mailto:vladihack@example.com">vladihack05@example.com</a>.
 </p>
 
 ---
