@@ -34,10 +34,6 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
-
-
-
-
 </p>
 
 ---
@@ -51,7 +47,14 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 <p align="left">
-  Feel free to reach out to me through any of the platforms above, or email me at <a href="mailto:vladihack@example.com">vladihack05@example.com</a>.
+  Feel free to reach out to me through any of the platforms above, or email me at <a href="mailto:vladihack05@gmail.com">vladihack05@gmail.com</a>.
+</p>
+
+---
+
+<h3 align="left">🐍 Snake Animation:</h3>
+<p align="center">
+  <img src="https://github.com/VladiHack/VladiHack/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
