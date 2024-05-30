@@ -42,12 +42,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VladiHack&show_icons=true&locale=en&layout=compact&theme=radical" alt="VladiHack's most used languages" />
 </p>
-
-<hr>
-
-<h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  Feel free to reach out to me through any of the platforms above, or email me at <a href="mailto:vladihack@example.com">vladihack05@example.com</a>.
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VladiHack&theme=radical" alt="VladiHack's streak stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VladiHack&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="VladiHack's total contributions" />
 </p>
 
 <hr>
