@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladimir Boychev</h1>
-<h3 align="center">I'm a student from Bulgaria, passionate about software development and technology.</h3>
+<h3 align="center">Coding enthusiast</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VladiHack&show_icons=true&theme=radical" alt="VladiHack's GitHub stats" />
